@@ -45,6 +45,7 @@
         "slide-1": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/12BA5C20-D09C-4629-BED3-06204AF4A1A0.jpg",
             "heading": "",
             "heading_size": "medium",
             "subheading": "",
@@ -62,6 +63,7 @@
         "slide-2": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_6796.jpg",
             "heading": "",
             "heading_size": "medium",
             "subheading": "",
