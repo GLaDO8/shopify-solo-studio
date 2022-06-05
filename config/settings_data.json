@@ -15,7 +15,7 @@
     "heading_scale": 105,
     "type_body_font": "muli_n4",
     "body_scale": 105,
-    "page_width": 1200,
+    "page_width": 1400,
     "spacing_sections": 0,
     "spacing_grid_horizontal": 40,
     "spacing_grid_vertical": 40,
@@ -121,7 +121,7 @@
         "settings": {
           "color_scheme": "background-1",
           "logo": "shopify:\/\/shop_images\/logo.png",
-          "logo_width": 160,
+          "logo_width": 130,
           "logo_position": "middle-left",
           "menu": "main-menu",
           "menu_type_desktop": "dropdown",
