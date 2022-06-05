@@ -223,45 +223,33 @@ html.no-js .no-js-hidden {
 @font-face {
   font-family: 'uncut-sans';
   src: url('{{ 'Uncut-Sans-Bold.woff2' | asset_url }}') format('woff2'),
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'uncut-sans';
-  src: url('{{ 'Uncut-Sans-Medium.woff2' | asset_url }}') format('woff2'),
-  font-weight: medium;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'uncut-sans';
-  src: url('{{ 'Uncut-Sans-Regular.woff2' | asset_url }}') format('woff2'),
-  font-weight: normal;
+  font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'uncut-sans';
   src: url('{{ 'Uncut-Sans-Semibold.woff2' | asset_url }}') format('woff2'),
-  font-weight: semibold;
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'uncut-sans';
+  src: url('{{ 'Uncut-Sans-Medium.woff2' | asset_url }}') format('woff2'),
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'uncut-sans';
+  src: url('{{ 'Uncut-Sans-Regular.woff2' | asset_url }}') format('woff2'),
+  font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-.h0,
-.h1,
-.h2,
-.h3,
-.h4,
-.h5 {
-  font-family: 'uncut-sans';
-}
+
 
 @media screen and (min-width: 750px) {
   .page-width {
@@ -2621,7 +2609,7 @@ details[open] > .header__submenu {
 
 .header__menu-item {
   font-size: 2rem;
-  font-weight: 600;
+  font-weight: 500;
   padding: 1.2rem;
   text-decoration: none;
   color: rgba(var(--color-foreground), 0.75);
@@ -2638,7 +2626,7 @@ details[open] > .header__submenu {
 .header__menu-item:hover span {
   text-decoration: underline;
   text-decoration-thickness: 0.3rem;
-  text-underline-offset: 0.3rem;
+  text-underline-offset: 0.4rem;
 }
 
 details[open] > .header__menu-item {
@@ -2658,12 +2646,12 @@ details[open] > .header__menu-item .icon-caret {
   color: rgb(var(--color-foreground));
   text-decoration: underline;
   text-decoration-thickness: 0.3rem;
-  text-underline-offset: 0.2rem;
+  text-underline-offset: 0.4rem;
 }
 
 .header__menu-item:hover .header__active-menu-item {
   text-decoration-thickness: 0.3rem;
-  text-underline-offset: 0.2rem;
+  text-underline-offset: 0.4rem;
 }
 
 .header__submenu {
@@ -2920,3 +2908,20 @@ details-disclosure > details {
 .font-body-bold {
   font-weight: var(--font-body-weight-bold);
 }
+/* li,
+li.a,
+p,
+.p,
+h1,
+h2,
+h3,
+h4,
+h5,
+.h0,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5 {
+  font-family: 'uncut-sans';
+} */
