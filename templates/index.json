@@ -204,6 +204,7 @@
     },
     "rich-text-2": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -225,6 +226,7 @@
     },
     "featured-collection-1": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -252,6 +254,7 @@
     },
     "rich-text-3": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "text": {
           "type": "text",
@@ -280,6 +283,7 @@
     },
     "collection-list": {
       "type": "collection-list",
+      "disabled": true,
       "blocks": {
         "collection-0": {
           "type": "featured_collection",
