@@ -137,18 +137,18 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "link-list": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Shop",
-              "menu": "product-types"
-            }
-          },
           "link-list-1": {
             "type": "link_list",
             "settings": {
               "heading": "Menu",
               "menu": "footer"
+            }
+          },
+          "link-list": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Shop",
+              "menu": "product-types"
             }
           },
           "image": {
@@ -167,8 +167,8 @@
           }
         },
         "block_order": [
-          "link-list",
           "link-list-1",
+          "link-list",
           "image",
           "text"
         ],
