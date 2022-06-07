@@ -9,6 +9,45 @@
         "color_scheme": "background-1"
       }
     },
+    "16545924281f2dba86": {
+      "type": "rich-text",
+      "blocks": {
+        "1654592428ff0655b1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "{{ collection.title }}",
+            "heading_size": "h1"
+          }
+        },
+        "1654592428ff0655b1-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1654592428ff0655b1-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1654592428ff0655b1-0",
+        "1654592428ff0655b1-1",
+        "1654592428ff0655b1-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -30,6 +69,7 @@
   },
   "order": [
     "banner",
+    "16545924281f2dba86",
     "product-grid"
   ]
 }
