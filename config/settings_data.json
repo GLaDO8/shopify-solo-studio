@@ -141,13 +141,13 @@
             "type": "link_list",
             "settings": {
               "heading": "Shop",
-              "menu": "footer"
+              "menu": "product-types"
             }
           },
           "link-list-1": {
             "type": "link_list",
             "settings": {
-              "heading": "Info",
+              "heading": "Menu",
               "menu": "footer"
             }
           },
