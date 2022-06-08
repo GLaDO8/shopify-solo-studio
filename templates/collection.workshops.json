@@ -15,7 +15,7 @@
         "1654592428ff0655b1-0": {
           "type": "heading",
           "settings": {
-            "heading": "SHOP SOLO",
+            "heading": "Workshops",
             "heading_size": "h1"
           }
         },
@@ -51,10 +51,10 @@
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
-        "products_per_page": 24,
-        "columns_desktop": 3,
-        "image_ratio": "portrait",
-        "show_secondary_image": true,
+        "products_per_page": 8,
+        "columns_desktop": 1,
+        "image_ratio": "square",
+        "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": false,
