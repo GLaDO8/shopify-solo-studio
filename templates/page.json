@@ -2,9 +2,49 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
+      }
+    },
+    "1654661077f65ad0ff": {
+      "type": "rich-text",
+      "blocks": {
+        "1654661077592fc8ff-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Learn about SOLO",
+            "heading_size": "h1"
+          }
+        },
+        "1654661077592fc8ff-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1654661077592fc8ff-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1654661077592fc8ff-0",
+        "1654661077592fc8ff-1",
+        "1654661077592fc8ff-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "1654659029d58b5121": {
@@ -47,8 +87,8 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 24,
+        "padding_bottom": 24
       }
     },
     "1654659803093a0ccb": {
@@ -64,7 +104,7 @@
         "16546598037c8cefb7-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>We have been very conscious of not greenwashing our way to you. Being transparent with our practices is the best way for us to move forward and build a community with trust and honesty.<\/p><p>We only use plant-based fabrics while constantly experimenting with weaves to get the desired texture. All our products are dyed and printed by the hands of the artisans with natural dyes only.<br\/><br\/>We are not driven by seasons or trends and focus on small-batch production. Our products are cut, sewn, and perfected at our workshop in Chandigarh, India. We celebrate our artisans with fair wages for their craftsmanship and provide them with a safe and healthy environment. <\/p>",
             "text_style": "body"
           }
         },
@@ -86,6 +126,50 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "16546616025f194620": {
+      "type": "image-with-text",
+      "blocks": {
+        "1654661602d7bdde85-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h2"
+          }
+        },
+        "1654661602d7bdde85-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Plastic is consuming our earth, and we wanted to do our part in eliminating it from our brand. We use coconut\/corozo nut buttons instead of plastic. <\/p><p><\/p><p>Our products ship in <strong>100% plastic-free<\/strong>, recyclable paper and are printed with acid-free dyes. We also only use cotton threads for stitching and embroidery.<\/p><p><\/p><p>We practice zero-waste manufacturing by using every tiny piece of fabric to make quirky products. Its is our way of honoring nature.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1654661602d7bdde85-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1654661602d7bdde85-0",
+        "1654661602d7bdde85-1",
+        "1654661602d7bdde85-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -138,21 +222,23 @@
       "settings": {
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
+        "padding_top": 24,
         "padding_bottom": 36
       }
     }
   },
   "order": [
     "main",
+    "1654661077f65ad0ff",
     "1654659029d58b5121",
     "1654659803093a0ccb",
+    "16546616025f194620",
     "1654660548cd06592b"
   ]
 }
