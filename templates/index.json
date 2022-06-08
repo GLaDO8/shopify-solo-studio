@@ -333,6 +333,7 @@
     },
     "multicolumn": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "column": {
           "type": "column",
@@ -366,6 +367,7 @@
     },
     "newslettter": {
       "type": "newsletter",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
