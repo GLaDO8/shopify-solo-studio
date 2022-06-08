@@ -84,6 +84,20 @@
             "picker_type": "button"
           }
         },
+        "1931e0e9-5c7b-4fe9-b2aa-698de5ecc309": {
+          "type": "popup",
+          "settings": {
+            "text": "Size chart",
+            "page": ""
+          }
+        },
+        "970f4e8c-c3c9-41e2-9790-09a183d0d6ef": {
+          "type": "popup",
+          "settings": {
+            "text": "Can't find your size?",
+            "page": "contact"
+          }
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "disabled": true,
@@ -93,7 +107,7 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": false
+            "show_dynamic_checkout": true
           }
         },
         "share": {
@@ -106,6 +120,13 @@
           "type": "description",
           "settings": {
           }
+        },
+        "2e78ff53-72bd-4a9a-9737-5f22288ed0c5": {
+          "type": "text",
+          "settings": {
+            "text": "We only use plant-based fabrics and all our products are dyed and printed with natural dyes. Our products are cut, sewn, and perfected by artisans at our workshop in Chandigarh, India. We celebrate our artisans with fair wages for their craftsmanship and provide them with a safe and healthy environment.",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
@@ -114,20 +135,23 @@
         "1f6d5641-1c0b-4f2b-a9f4-4e5c0cfb2548",
         "price",
         "variant_picker",
+        "1931e0e9-5c7b-4fe9-b2aa-698de5ecc309",
+        "970f4e8c-c3c9-41e2-9790-09a183d0d6ef",
         "quantity_selector",
         "buy_buttons",
         "share",
-        "description"
+        "description",
+        "2e78ff53-72bd-4a9a-9737-5f22288ed0c5"
       ],
       "settings": {
         "enable_sticky_info": true,
         "gallery_layout": "stacked",
-        "media_size": "small",
+        "media_size": "medium",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
         "padding_top": 40,
-        "padding_bottom": 0
+        "padding_bottom": 36
       }
     },
     "1654664705135058e2": {
@@ -135,6 +159,7 @@
       "blocks": {
         "1654664705e47cd5ab-0": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
@@ -171,7 +196,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "Button label",
