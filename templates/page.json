@@ -1,1 +1,104 @@
-{"sections":{"main":{"type":"main-page","settings":{"padding_top":28,"padding_bottom":28}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1654659029d58b5121": {
+      "type": "image-with-text",
+      "blocks": {
+        "1654659028448545c0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Philosophy",
+            "heading_size": "h2"
+          }
+        },
+        "1654659028448545c0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Born out of pure love for Indian handcrafted textiles, <strong>SOLO<\/strong> is an independent brand made and based in India. After three years of experimentation and a year of learning from the master artisans, <strong>SOLO<\/strong> was born in 2021. <\/p><p>Our mission is to honor and revive traditional Indian weaving, dyeing, and printing crafts, by educating students and business owners about these techniques. We want to bring a radical shift in the daily choices of the everyman. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "1654659028448545c0-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1654659028448545c0-0",
+        "1654659028448545c0-1",
+        "1654659028448545c0-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1654659803093a0ccb": {
+      "type": "image-with-text",
+      "blocks": {
+        "16546598037c8cefb7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Principles we stand by",
+            "heading_size": "h2"
+          }
+        },
+        "16546598037c8cefb7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16546598037c8cefb7-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16546598037c8cefb7-0",
+        "16546598037c8cefb7-1",
+        "16546598037c8cefb7-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1654659029d58b5121",
+    "1654659803093a0ccb"
+  ]
+}
