@@ -94,11 +94,65 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1654660548cd06592b": {
+      "type": "image-with-text",
+      "blocks": {
+        "1654660548bdb9c599-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "A little about me",
+            "heading_size": "h2"
+          }
+        },
+        "d1a4b7a3-3744-4e08-b856-f03b33274911": {
+          "type": "caption",
+          "settings": {
+            "caption": "Aditi Singh",
+            "text_style": "subtitle",
+            "text_size": "large"
+          }
+        },
+        "1654660548bdb9c599-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>My journey with natural dyes started when I took a minor in college about natural dyes in 2018. Although we barely touched the subject of dyeing, I knew I wanted to explore the craft. I started reading about it online and founded a small community of natural dyers. I also experimented at home with materials that were accessible to me. <br\/><br\/>When I went to Jaipur and met the artisans, they introduced me to the professional world of dyeing and taught me everything they knew in hopes of saving the dying craft. I aspire to do just that with SOLO.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1654660548bdb9c599-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1654660548bdb9c599-0",
+        "d1a4b7a3-3744-4e08-b856-f03b33274911",
+        "1654660548bdb9c599-1",
+        "1654660548bdb9c599-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "1654659029d58b5121",
-    "1654659803093a0ccb"
+    "1654659803093a0ccb",
+    "1654660548cd06592b"
   ]
 }
