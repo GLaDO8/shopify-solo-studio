@@ -123,8 +123,16 @@
             "text_style": "subtitle"
           }
         },
+        "a50f3cff-f06e-47db-a89d-be4e1dd5a06b": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.my_fields.workshop_cost.value }}",
+            "text_style": "body"
+          }
+        },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
           }
         },
@@ -162,6 +170,7 @@
         "vendor",
         "title",
         "1f6d5641-1c0b-4f2b-a9f4-4e5c0cfb2548",
+        "a50f3cff-f06e-47db-a89d-be4e1dd5a06b",
         "price",
         "variant_picker",
         "quantity_selector",
