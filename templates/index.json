@@ -193,6 +193,7 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/b-01.jpg",
         "height": "adapt",
         "desktop_image_width": "large",
         "layout": "image_first",
