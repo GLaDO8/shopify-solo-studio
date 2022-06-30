@@ -149,7 +149,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Share something unique about your brand",
+            "heading": "",
             "heading_size": "h1"
           }
         }
