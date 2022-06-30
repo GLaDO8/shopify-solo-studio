@@ -158,9 +158,10 @@
         "heading"
       ],
       "settings": {
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "text_first",
+        "image": "shopify:\/\/shop_images\/3B51151C-E308-4907-A73F-61C9E51CCBC3.jpg",
+        "height": "large",
+        "desktop_image_width": "large",
+        "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
