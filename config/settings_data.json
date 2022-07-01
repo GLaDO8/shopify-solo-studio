@@ -155,7 +155,8 @@
           "image": {
             "type": "image",
             "settings": {
-              "image_width": 100,
+              "image": "shopify:\/\/shop_images\/Group_9.png",
+              "image_width": 200,
               "alignment": "right"
             }
           },
