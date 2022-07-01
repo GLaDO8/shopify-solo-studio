@@ -27,6 +27,7 @@
       "blocks": {
         "slide-0": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_3531.jpg",
             "heading": "",
@@ -45,8 +46,8 @@
         },
         "slide-1": {
           "type": "slide",
+          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_3622.jpg",
             "heading": "",
             "heading_size": "medium",
             "subheading": "",
@@ -63,6 +64,7 @@
         },
         "slide-2": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_3447.jpg",
             "heading": "",
@@ -82,7 +84,7 @@
         "98553ff7-aeef-4fe7-9f3e-7dfc54ae7964": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_3652.jpg",
+            "image": "shopify:\/\/shop_images\/center-1.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
