@@ -136,18 +136,6 @@
     },
     "rich-text-1": {
       "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Featured collection",
-            "heading_size": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "heading"
-      ],
       "settings": {
         "color_scheme": "background-1",
         "full_width": false,
