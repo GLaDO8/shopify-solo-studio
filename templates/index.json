@@ -135,33 +135,6 @@
         "padding_bottom": 0
       }
     },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "clothing",
-        "products_to_show": 3,
-        "columns_desktop": 3,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "portrait",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 28,
-        "padding_bottom": 0
-      }
-    },
     "image-with-text": {
       "type": "image-with-text",
       "blocks": {
@@ -421,57 +394,12 @@
         "padding_top": 12,
         "padding_bottom": 84
       }
-    },
-    "image-with-text-2": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Share a quote from your brand's founder or highlight a customer review",
-            "heading_size": "h2"
-          }
-        },
-        "caption": {
-          "type": "caption",
-          "settings": {
-            "caption": "ATTRIBUTE YOUR QUOTE OR REVIEW",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "Read more",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "caption",
-        "button"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "bottom",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "accent-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 76
-      }
     }
   },
   "order": [
     "rich-text",
     "slideshow",
     "rich-text-1",
-    "featured-collection",
     "image-with-text",
     "image-with-text-1",
     "rich-text-2",
@@ -479,7 +407,6 @@
     "rich-text-3",
     "collection-list",
     "multicolumn",
-    "newslettter",
-    "image-with-text-2"
+    "newslettter"
   ]
 }
