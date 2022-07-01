@@ -170,8 +170,8 @@
         "1654664705e47cd5ab-1": {
           "type": "column",
           "settings": {
-            "title": "Sustainable",
-            "text": "<p>All our clothes are 100% cotton,  naturally dyed, and use buttons made of coconuts. We also ship in plastic-free packaging. <\/p>",
+            "title": "",
+            "text": "<p>All our garments are 100% cotton and naturally dyed. We ship in plastic-free packaging. <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -210,6 +210,7 @@
     },
     "image-with-text-1": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "text": {
           "type": "text",
