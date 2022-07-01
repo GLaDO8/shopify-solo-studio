@@ -223,6 +223,7 @@
         "1654660548bdb9c599-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/aditi.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
