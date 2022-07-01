@@ -88,7 +88,7 @@
           "type": "popup",
           "settings": {
             "text": "Size chart",
-            "page": "sizing-chart"
+            "page": "{{ product.metafields.custom.size_chart.value }}"
           }
         },
         "970f4e8c-c3c9-41e2-9790-09a183d0d6ef": {
