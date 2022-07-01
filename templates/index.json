@@ -327,10 +327,21 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "44aaa729-0c26-4c33-a992-65072826abe9": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "column"
+        "column",
+        "44aaa729-0c26-4c33-a992-65072826abe9"
       ],
       "settings": {
         "title": "",
