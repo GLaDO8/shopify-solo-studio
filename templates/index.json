@@ -134,35 +134,7 @@
         "color_scheme": "background-1",
         "full_width": false,
         "padding_top": 56,
-        "padding_bottom": 0
-      }
-    },
-    "image-with-text": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/3B51151C-E308-4907-A73F-61C9E51CCBC3.jpg",
-        "height": "large",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "accent-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 0
+        "padding_bottom": 36
       }
     },
     "image-with-text-1": {
@@ -171,7 +143,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Introduce a collection",
+            "heading": "यादें pays tribute to the simpler times. The 80s and the 90s were an important time for Indian fashion, when brand names weren’t a thing, the common man turned to movies for inspiration. We bring you the whole schbang, with the prints, the fits, the tunes and the iconic poses!",
             "heading_size": "h2"
           }
         },
@@ -179,7 +151,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop",
-            "button_link": ""
+            "button_link": "shopify:\/\/collections\/all"
           }
         }
       },
@@ -402,7 +374,6 @@
     "rich-text",
     "slideshow",
     "rich-text-1",
-    "image-with-text",
     "image-with-text-1",
     "rich-text-2",
     "featured-collection-1",
