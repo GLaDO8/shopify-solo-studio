@@ -79,7 +79,8 @@
         "1654659028448545c0-2"
       ],
       "settings": {
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/CB5ADCB1-E847-4C9C-88C6-BB5EA191DC7A.jpg",
+        "height": "large",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
