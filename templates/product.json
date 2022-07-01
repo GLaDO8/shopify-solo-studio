@@ -170,8 +170,8 @@
         "1654664705e47cd5ab-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Sustainable",
+            "text": "<p>All our clothes are 100% cotton,  naturally dyed, and use buttons made of coconuts. We also ship in plastic-free packaging. <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -179,8 +179,8 @@
         "1654664705e47cd5ab-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Fit & Comfort",
+            "text": "<p>Our coord sets are unisex, are lightweight and have a relaxed fit.  <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -192,7 +192,7 @@
         "1654664705e47cd5ab-2"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
