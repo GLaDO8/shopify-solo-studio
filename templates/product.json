@@ -178,6 +178,7 @@
         },
         "1654664705e47cd5ab-2": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Fit & Comfort",
             "text": "<p>Our coord sets are unisex, are lightweight and have a relaxed fit.  <\/p>",
