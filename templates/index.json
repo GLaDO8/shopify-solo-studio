@@ -140,6 +140,14 @@
     "image-with-text-1": {
       "type": "image-with-text",
       "blocks": {
+        "2d6ab281-8ffb-4a9e-b5c7-a181dfe631fb": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "subtitle"
+          }
+        },
         "heading": {
           "type": "heading",
           "settings": {
@@ -156,6 +164,7 @@
         }
       },
       "block_order": [
+        "2d6ab281-8ffb-4a9e-b5c7-a181dfe631fb",
         "heading",
         "button"
       ],
