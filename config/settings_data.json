@@ -145,13 +145,6 @@
               "menu": "footer"
             }
           },
-          "link-list": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Shop",
-              "menu": "product-types"
-            }
-          },
           "image": {
             "type": "image",
             "settings": {
@@ -170,7 +163,6 @@
         },
         "block_order": [
           "link-list-1",
-          "link-list",
           "image",
           "text"
         ],
