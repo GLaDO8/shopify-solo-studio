@@ -148,17 +148,9 @@
       "blocks": {
         "2d6ab281-8ffb-4a9e-b5c7-a181dfe631fb": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>यादें pays tribute to the simpler times. The 80s and the 90s were an important time for Indian fashion, when brand names weren’t a thing, the common man turned to movies for inspiration. We bring you the whole schbang, with the prints, the fits, the tunes and the iconic poses!<\/p>",
             "text_style": "subtitle"
-          }
-        },
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "यादें pays tribute to the simpler times. The 80s and the 90s were an important time for Indian fashion, when brand names weren’t a thing, the common man turned to movies for inspiration. We bring you the whole schbang, with the prints, the fits, the tunes and the iconic poses!",
-            "heading_size": "h2"
           }
         },
         "button": {
@@ -171,13 +163,12 @@
       },
       "block_order": [
         "2d6ab281-8ffb-4a9e-b5c7-a181dfe631fb",
-        "heading",
         "button"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/b-01.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
+        "height": "small",
+        "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "bottom",
         "desktop_content_alignment": "left",
@@ -194,6 +185,7 @@
       "blocks": {
         "heading": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Featured collection",
             "heading_size": "h2"
@@ -212,14 +204,13 @@
     },
     "featured-collection-1": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "all",
+        "collection": "frontpage",
         "products_to_show": 3,
         "columns_desktop": 3,
         "full_width": false,

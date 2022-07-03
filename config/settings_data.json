@@ -145,16 +145,9 @@
               "menu": "footer"
             }
           },
-          "image": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Group_9.png",
-              "image_width": 200,
-              "alignment": "right"
-            }
-          },
           "text": {
             "type": "text",
+            "disabled": true,
             "settings": {
               "heading": "SOLO Studio",
               "subtext": "<p>Educate. Inspire. Empower. <\/p>"
@@ -163,20 +156,19 @@
         },
         "block_order": [
           "link-list-1",
-          "image",
           "text"
         ],
         "settings": {
-          "color_scheme": "background-2",
-          "newsletter_enable": false,
+          "color_scheme": "background-1",
+          "newsletter_enable": true,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": true,
           "enable_country_selector": true,
           "enable_language_selector": false,
-          "payment_enable": true,
+          "payment_enable": false,
           "margin_top": 0,
-          "padding_top": 52,
-          "padding_bottom": 4
+          "padding_top": 40,
+          "padding_bottom": 8
         }
       },
       "main-password-header": {
