@@ -136,6 +136,7 @@
     },
     "rich-text-1": {
       "type": "rich-text",
+      "disabled": true,
       "settings": {
         "color_scheme": "background-1",
         "full_width": false,
