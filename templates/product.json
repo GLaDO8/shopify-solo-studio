@@ -156,6 +156,7 @@
     },
     "1654664705135058e2": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "1654664705e47cd5ab-0": {
           "type": "column",
@@ -166,30 +167,10 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "1654664705e47cd5ab-1": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>All our garments are 100% cotton and naturally dyed. We ship in plastic-free packaging. <\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1654664705e47cd5ab-2": {
-          "type": "column",
-          "settings": {
-            "title": "Fit & Comfort",
-            "text": "<p>Our coord sets are unisex, are lightweight and have a relaxed fit.  <\/p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "1654664705e47cd5ab-0",
-        "1654664705e47cd5ab-1",
-        "1654664705e47cd5ab-2"
+        "1654664705e47cd5ab-0"
       ],
       "settings": {
         "title": "",
