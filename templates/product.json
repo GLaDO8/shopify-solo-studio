@@ -91,13 +91,6 @@
             "page": "{{ product.metafields.custom.size_chart.value }}"
           }
         },
-        "970f4e8c-c3c9-41e2-9790-09a183d0d6ef": {
-          "type": "popup",
-          "settings": {
-            "text": "Can't find your size?",
-            "page": "contact"
-          }
-        },
         "quantity_selector": {
           "type": "quantity_selector",
           "disabled": true,
@@ -136,7 +129,6 @@
         "price",
         "variant_picker",
         "1931e0e9-5c7b-4fe9-b2aa-698de5ecc309",
-        "970f4e8c-c3c9-41e2-9790-09a183d0d6ef",
         "quantity_selector",
         "buy_buttons",
         "share",
