@@ -14,6 +14,7 @@
       "blocks": {
         "1654592428ff0655b1-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Workshops",
             "heading_size": "h1"
