@@ -89,6 +89,7 @@
         "16546966758f79575a-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_2188.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
@@ -191,40 +192,7 @@
     },
     "1654664705135058e2": {
       "type": "multicolumn",
-      "blocks": {
-        "1654664705e47cd5ab-0": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1654664705e47cd5ab-1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1654664705e47cd5ab-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1654664705e47cd5ab-0",
-        "1654664705e47cd5ab-1",
-        "1654664705e47cd5ab-2"
-      ],
+      "disabled": true,
       "settings": {
         "title": "Multicolumn",
         "heading_size": "h1",
@@ -244,6 +212,7 @@
     },
     "image-with-text": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "text": {
           "type": "text",
@@ -279,6 +248,7 @@
     },
     "image-with-text-1": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "text": {
           "type": "text",
@@ -323,6 +293,7 @@
     },
     "image-with-text-2": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
